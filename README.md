@@ -4,7 +4,6 @@ Olá eu sou o Leonardo ,Seja Bem-Vindo
 
 - 🌱 Estou aprendendo Html,Css e java script
 - 📫 leonardodev2005@gmail.com
-Olá eu sou o Leonardo,Seja Bem-vindo!
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoemanuel&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoemanuel&show_icons=true&theme=dark"
